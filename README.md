@@ -1,8 +1,6 @@
-# Processamento e Transformacao de Dados de Empresa com MySQL Azure e Power BI
+# DIO---Dashboard-Analitico-de-Gestao-Empresarial
 
 ## Visao Geral do Projeto
-
-Este repositorio contem a solucao completa de ETL e Dashboard Analitico.
 
 ## Painel Analitico Final e Diagrama do Banco
 
@@ -28,7 +26,7 @@ Este repositorio contem a solucao completa de ETL e Dashboard Analitico.
 - [x] **Otimizacao do Modelo**: Remocao de chaves estrangeiras redundantes pos-mescla para melhor desempenho da engine VertiPaq.
 - [x] **Construcao dos 4 Visuais do Dashboard**: Graficos de Lideranca, Financeiro, Horas por Projeto e Polos Regionais configurados e formatados em tema escuro.
 
-## Detalhamento do Processo de ETL e Transformacao
+## Detalhamento do Processo
 
 ### 1. Ajuste de Tipos de Dados e Cabecalhos
 - Salary: Convertido para Decimal/Double de precisao fixa no Power Query.
@@ -43,7 +41,7 @@ Este repositorio contem a solucao completa de ETL e Dashboard Analitico.
   - Research (Dnumber: 5) -> Franklin Wong
 
 ### 3. Divisao do Campo de Endereco (Address)
-A coluna Address (ex: 731-Fondren-Houston-TX) foi desmembrada em 4 atributos atomicos: Numero_Logradouro, Rua, Cidade e Estado.
+A coluna Address (ex: 731-Fondren-Houston-TX) foi desmembrada em 4 atributos: Numero_Logradouro, Rua, Cidade e Estado.
 
 ## Questao Conceitual: Mesclar (Merge) vs. Atribuir (Append)
 
@@ -96,7 +94,7 @@ A coluna Address (ex: 731-Fondren-Houston-TX) foi desmembrada em 4 atributos ato
 2. **Barras Fragmentadas por Funcionario**: Campo desnecessario inserido na caixa Legenda do grafico de lideranca. Solucao: Remocao do campo da Legenda.
 3. **Formatacao para Tema Escuro**: Desativacao da opcao Borda do Visual e configuracao de Fundo Transparente (100%) nas opçoes de Efeitos.
 
-## Estrutura do Repositorio (Pronto para GitHub)
+## Estrutura do Repositorio
 
 ```text
 .
