@@ -64,14 +64,15 @@ A coluna Address (ex: 731-Fondren-Houston-TX) foi desmembrada em 4 atributos: Nu
 - **Resultados**: Franklin Wong lidera com 3 subordinados diretos; Jennifer Wallace e James Borg possuem 2 subordinados diretos cada.
 
 ### 2. Grafico Financeiro e Salarial por Departamento
-![Grafico 2 - Financeiro e Salarial por Departamento](grafico_2_financeiro.png)
+<img width="398" height="223" alt="print gráfico 2 PB desktop" src="https://github.com/user-attachments/assets/c3a05dde-be92-4483-a9d6-4d2c13e2e55c" />
 - **Tipo de Visual**: Grafico de Colunas Agrupadas.
 - **Eixo X**: Dname (Nome do Departamento).
 - **Eixo Y**: Soma de Salario ($133k em Research, $93k em Admin, $55k em HQ) e Media salarial ($33.25k em Research, $31k em Admin, $55k em HQ).
 - **Legenda**: Vazia.
 
 ### 3. Grafico de Alocacao de Carga Horaria em Projetos
-![Grafico 3 - Alocacao de Carga Horaria em Projetos](grafico_3_projetos.png)
+<img width="412" height="221" alt="print gráfico 3 PB desktop" src="https://github.com/user-attachments/assets/b69b62be-0e17-4523-a1d8-edbd8aed51d1" />
+
 - **Tipo de Visual**: Grafico de Barras Agrupadas (Barras Horizontais).
 - **Eixo Y**: Pname (Nome do Projeto).
 - **Eixo X**: Soma de Hours (Total de Horas Trabalhadas).
@@ -79,7 +80,7 @@ A coluna Address (ex: 731-Fondren-Houston-TX) foi desmembrada em 4 atributos: Nu
 - **Classificacao**: Ordenacao crescente por horas.
 
 ### 4. Grafico de Descentralizacao e Polos Regionais
-![Grafico 4 - Descentralizacao e Polos Regionais](grafico_4_polos.png)
+<img width="379" height="224" alt="print gráfico 4 PB desktop" src="https://github.com/user-attachments/assets/d45d3852-45ce-4505-abf8-2eead1a9ac5a" />
 - **Tipo de Visual**: Grafico de Colunas Agrupadas.
 - **Eixo X**: Dname.
 - **Eixo Y**: Contagem (Distinta) de Dlocation.
@@ -91,16 +92,5 @@ A coluna Address (ex: 731-Fondren-Houston-TX) foi desmembrada em 4 atributos: Nu
 2. **Barras Fragmentadas por Funcionario**: Campo desnecessario inserido na caixa Legenda do grafico de lideranca. Solucao: Remocao do campo da Legenda.
 3. **Formatacao para Tema Escuro**: Desativacao da opcao Borda do Visual e configuracao de Fundo Transparente (100%) nas opçoes de Efeitos.
 
-## Estrutura do Repositorio
-
-```text
-.
-├── README.md                           <- Documentacao tecnica do repositorio
-├── dashboard_company_analytics.png     <- Print completo do Dashboard Analitico
-├── diagrama_relacional.png             <- Diagrama do modelo de dados relacional
-├── grafico_1_lideranca.png             <- Print do Grafico de Lideranca
-├── grafico_2_financeiro.png            <- Print do Grafico Financeiro/Salarial
-├── grafico_3_projetos.png              <- Print do Grafico de Horas em Projetos
-└── grafico_4_polos.png                 <- Print do Grafico de Polos Regionais
-```
+O dashboard foi publicado em https://app.powerbi.com/groups/c8ef5d95-abf6-41a1-8c21-847fa18de4b8/reports/f5c84d68-2b17-4fb9-8478-51253bbcbc30/0d45f1b1df787ac704f6?experience=power-bi
 
