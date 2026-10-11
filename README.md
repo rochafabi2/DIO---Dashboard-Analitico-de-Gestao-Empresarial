@@ -1,9 +1,5 @@
 # DIO---Dashboard-Analitico-de-Gestao-Empresarial
 
-## Visao Geral do Projeto
-
-## Painel Analitico Final e Diagrama do Banco
-
 ### Dashboard de Gestao Empresarial
 <img width="836" height="465" alt="print PBI desktop" src="https://github.com/user-attachments/assets/f88975b2-90f0-4310-bd39-d259fa3d1ce4" />
 
