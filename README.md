@@ -92,5 +92,8 @@ A coluna Address (ex: 731-Fondren-Houston-TX) foi desmembrada em 4 atributos: Nu
 2. **Barras Fragmentadas por Funcionario**: Campo desnecessario inserido na caixa Legenda do grafico de lideranca. Solucao: Remocao do campo da Legenda.
 3. **Formatacao para Tema Escuro**: Desativacao da opcao Borda do Visual e configuracao de Fundo Transparente (100%) nas opçoes de Efeitos.
 
-O dashboard foi publicado em https://app.powerbi.com/groups/c8ef5d95-abf6-41a1-8c21-847fa18de4b8/reports/f5c84d68-2b17-4fb9-8478-51253bbcbc30/0d45f1b1df787ac704f6?experience=power-bi
+O dashboard foi publicado em https://app.powerbi.com/groups/c8ef5d95-abf6-41a1-8c21-847fa18de4b8/reports/f5c84d68-2b17-4fb9-8478-51253bbcbc30/0d45f1b1df787ac704f6?experience=power-bi.
+
+Para documentar melhor todo o processo, também foi gerado o relatório[Relatorio de Diagnostico e Gestao Empresarial - Desafio DIO.pdf](https://github.com/user-attachments/files/33315042/Relatorio.de.Diagnostico.e.Gestao.Empresarial.-.Desafio.DIO.pdf) disponível para consulta.
+
 
