@@ -56,7 +56,7 @@ A coluna Address (ex: 731-Fondren-Houston-TX) foi desmembrada em 4 atributos: Nu
 ## Detalhamento dos Visuais do Dashboard
 
 ### 1. Grafico de Lideranca e Subordinacao
-![Grafico 1 - Lideranca e Subordinacao](grafico_1_lideranca.png)
+<img width="389" height="215" alt="print gráfico 1 PB desktop" src="https://github.com/user-attachments/assets/7ee9c9e3-cf61-4ea4-8e6f-e423fbb1e356" />
 - **Tipo de Visual**: Grafico de Colunas Agrupadas.
 - **Eixo X**: Nome_Gerente.
 - **Eixo Y**: Medida DAX Qtd_Subordinados = COUNTROWS("vw_employee_gerente").
