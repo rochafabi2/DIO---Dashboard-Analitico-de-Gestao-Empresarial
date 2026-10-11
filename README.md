@@ -7,9 +7,6 @@
 ### Dashboard de Gestao Empresarial
 ![Dashboard Analitico](dashboard_company_analytics.png)
 
-### Diagrama Relacional
-![Diagrama Relacional](diagrama_relacional.png)
-
 ## Lista de Verificacao de Diretrizes do Projeto (100% Concluido)
 
 - [x] **Configuracao e Instanciacao Azure MySQL**: Criacao do banco azure_company, regras de firewall e conexao via DBeaver/Workbench.
